@@ -1,0 +1,12 @@
+50.00
+10
+James,Smith,50.0
+Michael,Smith,50.0
+Robert,Smith,50.0
+David,Smith,50.0
+Maria,Rodriguez,50.0
+Mary,Smith,50.0
+Maria,Hernandez,50.0
+Maria,Martinez,50.0
+Maria,Garcia,50.0
+James,Johnson,50.0
