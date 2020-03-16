@@ -1,0 +1,37 @@
+9
+Star Wars
+George Lucas
+20th Century Fox
+7.98E8
+Jaws
+Steven Spielberg
+Universal
+4.706E8
+The Return of the King
+Peter Jackson
+New Line
+1.1292E9
+hh
+hh
+hh
+777.0
+ghh
+hhh
+hhh
+4444.0
+rrr
+rr
+rr
+333.0
+hh
+hh
+444
+55.0
+xxx
+xxx
+xxx
+444.0
+yy
+hh
+ll
+888.0
